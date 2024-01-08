@@ -2,7 +2,7 @@
 
 This is a (hopefully) quick landing page for Yarn Help 5.0 central site. It's being built with Tailwind CSS and vanilla JS.
 
-The majority of the Yarn Help 5.0 apps will be built with Next.js and Tailwind CSS. As this is a landing page, I'm using vanilla JS to get it spun up quickly. 
+The majority of the Yarn Help 5.0 apps will be built with Next.js and Tailwind CSS. As this is a landing page, I'm using vanilla JS to get it spun up quickly.
 
 ## About Yarn Help 5.0
 
